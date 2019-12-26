@@ -13,9 +13,9 @@ This is a collection of assignments from repl.it:
 - ### Description: Uses a switch case to use a variable's value to determine the value of another variable. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Switch-Statement)*
 
-<!-- ## [Nested Conditions]()
-- ### Description: 
-    *[Assignment on Repl.it]()* -->
+## [Nested Conditions](https://github.com/TrinityTerry/Repl.it-JS-Conditions/tree/master/nested-conditions)
+- ### Description: Using switch case with grouped cases. 
+    *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Nested-Conditions)*
 
 <!-- ## [Challenge!]()
 - ### Description: 
