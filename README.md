@@ -2,21 +2,21 @@
 This is a collection of assignments from repl.it:
 
 ## [Single Conditions](https://github.com/TrinityTerry/Repl.it-JS-Conditions/tree/master/single-conditions)
-- ### Description: Using a conditional (ternary) operator to display message determined by value of variable. 
+- ### Description: Using a conditional (ternary) operator to display message determined by boolean value of variable. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Single-Conditions)*
 
-<!-- ## [~~Multiple Conditions~~]()
-- ### Description: 
-    *[Assignment on Repl.it]()*
+## [Multiple Conditions](https://github.com/TrinityTerry/Repl.it-JS-Conditions/tree/master/multiple-conditions)
+- ### Description: Using multiple conditions to display message deternime by boolean value of variable. 
+    *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Multiple-Conditions)*
 
-## [~~Switch Statements~~]()
+<!-- ## [Switch Statements]()
 - ### Description: 
-    *[Assignment on Repl.it]()*
+    *[Assignment on Repl.it]()* -->
 
-## [~~Nested Conditions~~]()
+<!-- ## [Nested Conditions]()
 - ### Description: 
-    *[Assignment on Repl.it]()*
+    *[Assignment on Repl.it]()* -->
 
-## [~~Challenge!~~]()
+<!-- ## [Challenge!]()
 - ### Description: 
     *[Assignment on Repl.it]()* -->
