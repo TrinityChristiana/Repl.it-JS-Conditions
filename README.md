@@ -2,7 +2,7 @@
 This is a collection of assignments from repl.it:
 
 ## [Single Conditions](https://github.com/TrinityTerry/Repl.it-JS-Conditions/tree/master/single-conditions)
-- ### Description: 
+- ### Description: Using a conditional (ternary) operator to display message determined by value of variable. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Single-Conditions)*
 
 <!-- ## [~~Multiple Conditions~~]()
