@@ -6,7 +6,7 @@ This is a collection of assignments from repl.it:
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Single-Conditions)*
 
 ## [Multiple Conditions](https://github.com/TrinityTerry/Repl.it-JS-Conditions/tree/master/multiple-conditions)
-- ### Description: Using multiple conditions to display message deternime by boolean value of variable. 
+- ### Description: Using multiple conditions to display message determined by boolean value of variable. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Multiple-Conditions)*
 
 <!-- ## [Switch Statements]()
