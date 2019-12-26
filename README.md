@@ -17,6 +17,6 @@ This is a collection of assignments from repl.it:
 - ### Description: Using switch case with grouped cases. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Nested-Conditions)*
 
-<!-- ## [Challenge!]()
-- ### Description: 
-    *[Assignment on Repl.it]()* -->
+## [Challenge!](https://github.com/TrinityTerry/Repl.it-JS-Conditions/tree/master/challenge!)
+- ### Description: Uses user input to determine displayed message. Validates user input, uses switch cases and if statements to help determine message. Uses and calls functions to modularize code. 
+    *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Challenge)*
