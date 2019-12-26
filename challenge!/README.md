@@ -1,6 +1,6 @@
 Here's my repl.it link to this assignment: https://repl.it/@TrinityTerry/Challenge
 
-Challenge: Global Weather Report
+## Challenge: Global Weather Report
 
 You are going to use the window.prompt() method to ask your customer three questions.
 
