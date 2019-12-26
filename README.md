@@ -9,7 +9,7 @@ This is a collection of assignments from repl.it:
 - ### Description: Using multiple conditions to display message determined by boolean value of variable. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Multiple-Conditions)*
 
-## [Switch Statements]()
+## [Switch Statements](https://github.com/TrinityTerry/Repl.it-JS-Conditions/tree/master/switch-statement)
 - ### Description: Uses a switch case to use a variable's value to determine the value of another variable. 
     *[Assignment on Repl.it](https://repl.it/@TrinityTerry/Switch-Statement)*
 
